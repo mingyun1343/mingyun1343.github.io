@@ -175,6 +175,7 @@ div#footer a {
 }
 
 div#footer-text {
+	width: 100%;
 	display: flex;
 	justify-content: space-between;
 	padding-bottom: 8px;
