@@ -175,7 +175,8 @@ div#footer a {
 }
 
 div#footer-text {
-	float: right;
+	display: flex;
+	justify-content: space-between;
 	padding-bottom: 8px;
 }
 
